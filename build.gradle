@@ -40,6 +40,7 @@ allprojects {
 		compile "org.jmonkeyengine:jme3-bullet-native:$jmonkeyengine_version"
 		compile "org.jmonkeyengine:jme3-lwjgl:$jmonkeyengine_version"
 		compile "org.jmonkeyengine:jme3-niftygui:$jmonkeyengine_version"
+		compile "org.jmonkeyengine:jme3-plugins:$jmonkeyengine_version"
 	}
 	
 	pmd {

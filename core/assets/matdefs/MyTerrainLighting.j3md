@@ -233,7 +233,7 @@ MaterialDef Terrain Lighting {
     }
 
     Technique {
-        LightMode FixedPipeline
+        LightMode MultiPass
     }
 
     Technique Glow {
